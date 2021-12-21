@@ -34,7 +34,7 @@
         <p class="contact-message">Email here!</p>
         <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a> 
       </div>
-      </div> </center> 
+       </center> 
       <hr>
       <center> <div class="bio link">
         <a class="btn" href="https://bio.link/sreehanadigopula">My Bio link! </a>
